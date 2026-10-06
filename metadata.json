@@ -1,0 +1,6 @@
+{
+  "name": "CAP ERP",
+  "description": "Un ERP multiplataforma ligero para control de inventarios, consumo de combustible, balances y órdenes de trabajo integradas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
